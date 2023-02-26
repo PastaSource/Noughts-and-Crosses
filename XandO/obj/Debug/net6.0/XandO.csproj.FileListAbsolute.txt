@@ -1,0 +1,15 @@
+C:\Users\aaron\source\repos\XandO\XandO\obj\Debug\net6.0\XandO.csproj.AssemblyReference.cache
+C:\Users\aaron\source\repos\XandO\XandO\obj\Debug\net6.0\XandO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\XandO\XandO\obj\Debug\net6.0\XandO.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\XandO\XandO\obj\Debug\net6.0\XandO.AssemblyInfo.cs
+C:\Users\aaron\source\repos\XandO\XandO\obj\Debug\net6.0\XandO.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\XandO\XandO\bin\Debug\net6.0\XandO.exe
+C:\Users\aaron\source\repos\XandO\XandO\bin\Debug\net6.0\XandO.deps.json
+C:\Users\aaron\source\repos\XandO\XandO\bin\Debug\net6.0\XandO.runtimeconfig.json
+C:\Users\aaron\source\repos\XandO\XandO\bin\Debug\net6.0\XandO.dll
+C:\Users\aaron\source\repos\XandO\XandO\bin\Debug\net6.0\XandO.pdb
+C:\Users\aaron\source\repos\XandO\XandO\obj\Debug\net6.0\XandO.dll
+C:\Users\aaron\source\repos\XandO\XandO\obj\Debug\net6.0\refint\XandO.dll
+C:\Users\aaron\source\repos\XandO\XandO\obj\Debug\net6.0\XandO.pdb
+C:\Users\aaron\source\repos\XandO\XandO\obj\Debug\net6.0\XandO.genruntimeconfig.cache
+C:\Users\aaron\source\repos\XandO\XandO\obj\Debug\net6.0\ref\XandO.dll
